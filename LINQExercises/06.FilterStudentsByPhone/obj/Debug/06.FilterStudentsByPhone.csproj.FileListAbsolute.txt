@@ -1,0 +1,5 @@
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.exe.config
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.pdb
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\06.FilterStudentsByPhone\obj\Debug\06.FilterStudentsByPhone.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\06.FilterStudentsByPhone\obj\Debug\06.FilterStudentsByPhone.pdb

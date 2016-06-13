@@ -1,0 +1,6 @@
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\05.FilterStudentsByEmail\bin\Debug\05.FilterStudentsByEmail.exe.config
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\05.FilterStudentsByEmail\bin\Debug\05.FilterStudentsByEmail.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\05.FilterStudentsByEmail\bin\Debug\05.FilterStudentsByEmail.pdb
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\05.FilterStudentsByEmail\obj\Debug\05.FilterStudentsByEmail.csprojResolveAssemblyReference.cache
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\05.FilterStudentsByEmail\obj\Debug\05.FilterStudentsByEmail.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\05.FilterStudentsByEmail\obj\Debug\05.FilterStudentsByEmail.pdb

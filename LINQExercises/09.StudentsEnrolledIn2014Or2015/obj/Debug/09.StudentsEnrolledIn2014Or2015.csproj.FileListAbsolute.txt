@@ -1,0 +1,5 @@
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\09.StudentsEnrolledIn2014Or2015\bin\Debug\09.StudentsEnrolledIn2014Or2015.exe.config
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\09.StudentsEnrolledIn2014Or2015\bin\Debug\09.StudentsEnrolledIn2014Or2015.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\09.StudentsEnrolledIn2014Or2015\bin\Debug\09.StudentsEnrolledIn2014Or2015.pdb
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\09.StudentsEnrolledIn2014Or2015\obj\Debug\09.StudentsEnrolledIn2014Or2015.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\09.StudentsEnrolledIn2014Or2015\obj\Debug\09.StudentsEnrolledIn2014Or2015.pdb

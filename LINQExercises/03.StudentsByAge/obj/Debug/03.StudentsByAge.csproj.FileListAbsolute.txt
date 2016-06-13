@@ -1,0 +1,5 @@
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe.config
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\03.StudentsByAge\bin\Debug\03.StudentsByAge.pdb
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\03.StudentsByAge\obj\Debug\03.StudentsByAge.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\03.StudentsByAge\obj\Debug\03.StudentsByAge.pdb

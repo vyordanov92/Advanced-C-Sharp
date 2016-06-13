@@ -1,0 +1,6 @@
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.exe.config
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.pdb
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\02.StudentsByFirstAndLastName\obj\Debug\02.StudentsByFirstAndLastName.csprojResolveAssemblyReference.cache
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\02.StudentsByFirstAndLastName\obj\Debug\02.StudentsByFirstAndLastName.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\02.StudentsByFirstAndLastName\obj\Debug\02.StudentsByFirstAndLastName.pdb

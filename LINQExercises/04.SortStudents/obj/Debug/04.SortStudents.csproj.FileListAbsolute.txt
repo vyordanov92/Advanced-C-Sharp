@@ -1,0 +1,6 @@
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\04.SortStudents\bin\Debug\04.SortStudents.exe.config
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\04.SortStudents\bin\Debug\04.SortStudents.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\04.SortStudents\bin\Debug\04.SortStudents.pdb
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\04.SortStudents\obj\Debug\04.SortStudents.csprojResolveAssemblyReference.cache
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\04.SortStudents\obj\Debug\04.SortStudents.exe
+C:\Users\Yordanov\Documents\Visual Studio 2015\Projects\LINQExercises\04.SortStudents\obj\Debug\04.SortStudents.pdb
